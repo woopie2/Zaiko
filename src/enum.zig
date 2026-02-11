@@ -1,0 +1,1 @@
+pub const Difficulty = enum {Easy, Normal, Hard, Oni, Ura};
